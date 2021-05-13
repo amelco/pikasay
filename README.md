@@ -2,7 +2,7 @@
 
 A clone of the `cowsay` program that uses Pikachu instead.
 
-It was developed following the video from danlog [https://www.youtube.com/watch?v=De8WG1W2UtM&t=0s](here).
+It was developed following the video from danlog [here](https://www.youtube.com/watch?v=De8WG1W2UtM&t=0s).
 
 ### Usage
 
