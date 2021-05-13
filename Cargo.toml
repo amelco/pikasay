@@ -1,0 +1,18 @@
+[package]
+name = "pikasay"
+version = "0.1.0"
+authors = ["Andre Bezerra <amelco.herman@gmail.com>"]
+edition = "2018"
+description = "This is an 'cowsay' clone but using pikachus"
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+structopt = "0.3.17"
+colored = "2.0.0"
+failure = "0.1.8"
+exitfailure = "0.5.1"
+assert_cmd = "1.0.1"
+predicates = "1.0.5"
