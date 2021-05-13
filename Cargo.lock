@@ -266,7 +266,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "1a5b3dd1c072ee7963717671d1ca129f1048fda25edea6b752bfc71ac8854170"
 
 [[package]]
-name = "pikasay"
+name = "pikasay-ah"
 version = "0.1.0"
 dependencies = [
  "assert_cmd",
